@@ -1,0 +1,76 @@
+import '../model/productmodel.dart';
+
+List<Data> dataList = [
+  Data(
+      discount: "20%",
+      image: "assets/images/fastfoods.jpg",
+      price1: "9.0",
+      price2: "12.0",
+      rating: "4.4",
+      time: "23 min",
+      title: "FastFoods"),
+  Data(
+      discount: "15%",
+      image: "assets/images/salan.jpg",
+      price1: "12.0",
+      price2: "15.0",
+      rating: "4.7",
+      time: "17 min",
+      title: "ChickenCurry"),
+  Data(
+      discount: "17%",
+      image: "assets/images/donuts.jpg",
+      price1: "9.2",
+      price2: "12.0",
+      rating: "4.2",
+      time: "12 min",
+      title: "Donuts"),
+  Data(
+      discount: "10%",
+      image: "assets/images/salan.jpg",
+      price1: "9.2",
+      price2: "12.0",
+      rating: "3.4",
+      time: "23 min",
+      title: "ChickenCurry"),
+  Data(
+      discount: "10%",
+      image: "assets/images/salan.jpg",
+      price1: "9.2",
+      price2: "12.0",
+      rating: "3.4",
+      time: "23 min",
+      title: "ChickenCurry"),
+  Data(
+      discount: "10%",
+      image: "assets/images/salan.jpg",
+      price1: "9.2",
+      price2: "12.0",
+      rating: "3.4",
+      time: "23 min",
+      title: "ChickenCurry"),
+  Data(
+      discount: "13%",
+      image: "assets/images/fastfoods.jpg",
+      price1: "9.2",
+      price2: "12.0",
+      rating: "3.4",
+      time: "23 min",
+      title: "FastFoods"),
+  Data(
+      discount: "8%",
+      image: "assets/images/donuts.jpg",
+      price1: "9.2",
+      price2: "12.0",
+      rating: "3.4",
+      time: "23 min",
+      title: "Donuts"),
+  Data(
+      discount: "16%",
+      image: "assets/images/salan.jpg",
+      price1: "9.2",
+      price2: "12.0",
+      rating: "3.4",
+      time: "23 min",
+      title: "ChickenCurry")
+];
